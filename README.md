@@ -1,6 +1,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Hi ! I am Ina Yoon </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello, I'm Ina Yoon. I graduated from Seneca College, where I studied programming. I'm primarily interested in frontend development, and I'm working on personal projects using React.js. Currently, I have a keen interest in MERN stack and full stack development. </div> 
+    </div> <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> This is my linkedin profile : https://www.linkedin.com/in/ina-yoon-a40733243/ </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 

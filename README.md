@@ -1,9 +1,8 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=a3db99&height=120&text=Hi%20!%20I%20am%20Ina%20Yoon&animation=&fontColor=fefbfb&fontSize=40" />
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Hello, I'm Ina Yoon. I recently graduated from Seneca College, where I studied programming. I'm primarily interested in frontend development, and I'm working on personal projects using React and Typescript. Currently, I have a keen interest in full stack development with MERN stack.</li> </div> 
+    <div style="font-weight: 700; font-size: 17px; text-align: left; color: #282d33;"> Hello, I'm Ina Yoon. I recently graduated from Seneca College, where I studied programming. I'm primarily interested in frontend development, and I'm working on personal projects using React and Typescript. Currently, I have a keen interest in full stack development with MERN stack.</li> </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
